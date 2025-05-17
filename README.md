@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IcyzFidelis
-- 👀 I’m interested in ...abstract strategy board games
+- 👀 I’m interested in ...software and game development
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python projects
 - 📫 How to reach me ...sinaakiny@gmail.com

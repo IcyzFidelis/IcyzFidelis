@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IcyzFidelis
+- 👋 Hi, I’m Seyi Ajanaku
 - 👀 I’m interested in ...software and game development
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python projects
